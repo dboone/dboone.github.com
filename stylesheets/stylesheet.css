@@ -150,7 +150,7 @@ header h1 a.button {
   /*right: 0;*/
   /*top: 0*/
   width: 100px;
-  height: 20px;
+  height: 75px;
   float: right;
   background: transparent url(../images/download-button-medium.png) 0 0 no-repeat;
 }
