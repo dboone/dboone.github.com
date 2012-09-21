@@ -138,8 +138,8 @@ a.button {
   line-height: 1.2;
   font-size: 23px;
   color: #fff;
-  padding-left: 68px;
-  padding-top: 22px;
+  padding-left: 10px;
+  padding-top: 10px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
@@ -150,7 +150,7 @@ header a.button {
   /*position: absolute;*/
   /*right: 0;*/
   /*top: 0;*/
-  display:inline;
+  display: inline;
   margin: 0 0 0 5px;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
