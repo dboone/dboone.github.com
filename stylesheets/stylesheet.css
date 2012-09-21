@@ -153,11 +153,12 @@ header h1 a.button {
   background: transparent url(../images/download-button-medium.png) 0 0 no-repeat;
 }
 aside a.button {
-  width: 138px;
+  width: 100px;
+  height: 20px;
   padding-left: 64px;
   display: block;
   background: transparent url(../images/download-button-medium.png) 0 0 no-repeat;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   font-size: 21px;
 }
 
