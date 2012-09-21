@@ -140,7 +140,7 @@ a.button {
   color: #fff;
   padding-left: 68px;
   padding-top: 22px;
-  /*font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; */
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
 }
 a.button small {
   display: block;
@@ -148,7 +148,7 @@ a.button small {
 }
 header a.button {
   position: absolute;
-  right: 0;
+  /*right: 0;*/
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
