@@ -94,7 +94,7 @@ header h2 {
 .inner {
   position: relative;
   width: 940px;
-  /*font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;*/
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   margin: 0 auto;
 }
 
