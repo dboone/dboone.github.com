@@ -142,7 +142,7 @@ a.button small {
   display: block;
   font-size: 11px;
 }
-header a.button {
+header h1 a.button {
   /*position: absolute;
   */
   /*right: 0;*/
