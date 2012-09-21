@@ -148,13 +148,13 @@ header h1 a.button {
   /*right: 0;*/
   /*top: 0*/
   float: right;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button-medium.png) 0 0 no-repeat;
 }
 aside a.button {
   width: 138px;
   padding-left: 64px;
   display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button-medium.png) 0 0 no-repeat;
   margin-bottom: 20px;
   font-size: 21px;
 }
