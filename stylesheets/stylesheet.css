@@ -144,9 +144,9 @@ a.button small {
 }
 header a.button {
   /*position: absolute;
+  */
   right: 0;
   top: 0;
-  */
   float: right;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
