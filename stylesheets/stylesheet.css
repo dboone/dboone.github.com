@@ -143,9 +143,11 @@ a.button small {
   font-size: 11px;
 }
 header a.button {
-  position: absolute;
+  /*position: absolute;
   right: 0;
   top: 0;
+  */
+  float: right;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 aside a.button {
