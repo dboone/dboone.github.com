@@ -148,7 +148,7 @@ header a.button {
   /*right: 0;*/
   /*top: 0*/
   float: right;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
 aside a.button {
   width: 138px;
