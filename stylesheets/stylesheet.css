@@ -129,6 +129,8 @@ aside#sidebar p.repo-owner a {
 }
 
 a.button {
+  display: block;
+  font-size: 12px;
   width: 134px;
   height: 58px;
   line-height: 1.2;
