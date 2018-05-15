@@ -27,7 +27,7 @@ github_username: dboone
 
 # Build settings
 markdown: kramdown
-theme: jekyll-sleek
+remote_theme: janczizikow/sleek
 gems:
   - jekyll-feed
 exclude:
