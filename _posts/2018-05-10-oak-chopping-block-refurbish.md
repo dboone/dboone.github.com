@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Oak Chopping Block Refurbish"
+title:  "Oak chopping block refurbish"
 date:   2018-05-10
 categories: woodworking
-thumbnail: "https://lh3.googleusercontent.com/SIYvetJzfOoDf3ezDjhC6jn1Ch6DoJQvjMxkMNHcLoUT7p3ZcwICOJqQggJFGgR7VW7PJFVA8_L1TqH6ZXaxp99ibwVYYBU5lgIgkxsm7m4hXGS3ehKIxyjQ7nqq7VKfOT0dR0zdeYJqcCR3pZAomD43ivDRG42nAcOHuEcdHzZf1eyLqL8k9KF0s7ZQWKqDfp4SEGjdWUuXrJfnmGHJXe3qwn47nGVep34_VpKgiBpc0o2-uZ7u9k57302myFkrjetPH2GQy0z-kMVmNQCYbzYh0DR4LsbV8WoOMamw4uMpoVbm8PtiHvxYzFysDxKsz90dWl-R-QmKYXkNXo2KQ6tRBSJ4UKydwG4eCcxW1qhbrmpxrCEB6TCm9_91oYNI3UqJCXh9w_w3HS_4ox0B5tFi9ee4aKyta4HCOiEVX5tJ2HUbzB4M2FmkelVYzFSh64-wZSRBE8-XE6lGP9DDqOhSFnMzEhRz3pN81FlHdmqfWmPM0v-3YLtkO2y7NhgIizA5FCqUPhIHWhoDrpRCXZTFfkFMN_ZTN59CnSC3N4cxYETjYWVhiXF7KcWarM6sRCH3IWqd7pJtxvXROUp-myZIU64x_bgB2Bi6sT4Zpc0I-DqYyQgmNJiKmIoBhi6RY_FTegt-OMjImO0ugk4NNteGdCtayA_O=w1445-h963-no"
+featured-img: "oak-chopping-block-final-surface"
 ---
 This oak chopping block had been well used. The individual strips had started to separate to the point where clamps and glue alone wouldn't be enough to close them. Additionally, you can see how the end grain to end grain joints had also started to separate. I decided the best option was to completely redo all of the joints by sawing and regluing them. Finished with Howard's Butcher Block Conditioner.
 

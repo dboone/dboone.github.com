@@ -1,3 +1,11 @@
 _site
+_img
 .sass-cache
 .jekyll-metadata
+node_modules
+*_lg.jpg
+*_md.jpg
+*_placehold.jpg
+*_sm.jpg
+*_xs.jpg
+*@2x.jpg
