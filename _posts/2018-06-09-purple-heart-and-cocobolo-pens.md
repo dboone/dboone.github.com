@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Purple heart and cocobolo"
+title:  "Purple heart and cocobolo pens"
 date:   2018-06-09
 categories: woodworking
 featured-img: "purple-heart-and-cocobolo-final"
