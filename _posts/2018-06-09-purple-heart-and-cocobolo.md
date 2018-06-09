@@ -3,7 +3,7 @@ layout: post
 title:  "Purple heart and cocobolo"
 date:   2018-06-09
 categories: woodworking
-featured-img: "purple-heart-cocobolo-final"
+featured-img: "purple-heart-and-cocobolo-final"
 ---
 
 Purple heart and Cocobolo pens finished with Doctor's Woodshop Pens Plus.
