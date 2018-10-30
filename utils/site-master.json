@@ -1,0 +1,71 @@
+{
+    "site_title" : "Boone Woodworks",
+    "site_subtitle" : "using namespace boone;",
+    "posts_path" : "../_posts",
+    "images_path" : "/assets/img/posts/",
+    "posts" : [
+        {
+            "title" : "Cocobolo pens",
+            "date" : "2017-10-15",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : ""
+        },
+        {
+            "title" : "Firewood mushroom",
+            "date" : "2017-11-26",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : "Mushroom turned from a piece of firewood. Finished with beeswax."
+        },
+        {
+            "title" : "Cocobolo pen for Hannah",
+            "date" : "2017-12-10",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : ""
+        },
+        {
+            "title" : "Walnut pen for Grandma",
+            "date" : "2018-01-09",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : ""
+        },
+        {
+            "title" : "Poplar picture ledge shelf",
+            "date" : "2018-03-11",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : ""
+        },
+        {
+            "title" : "First cutting board",
+            "date" : "2018-03-26",
+            "categories" : ["woodworking"],
+            "images" : [],
+            "description" : ""
+        },
+        {
+            "title" : "Hickory tablet stand",
+            "date" : "2018-09-02",
+            "categories" : ["woodworking"],
+            "images" : ["hickory-tablet-stand-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Maple stropping board",
+            "date" : "2018-09-07",
+            "categories" : ["woodworking"],
+            "images" : ["maple-stropping-board-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Ambrosia maple pen holders",
+            "date" : "2018-09-10",
+            "categories" : ["woodworking"],
+            "images" : ["ambrosia-maple-pen-holders-final", "ambrosia-maple-pen-holders-close"],
+            "description" : "This was my first time working with ambrosia maple. I was really happy with how well the miters came out considering the imperfect milling. The packing tape glue up trick works wonders for bringing miters together."
+        }
+    ]
+}

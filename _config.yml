@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://dboone.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:3000" # the base hostname & protocol for your site, e.g. http://example.com
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -16,11 +16,11 @@ navigation: # Navigation links
 
 tagline:
 
-hero_img: suspended-oak-leaf.jpg
+hero_img: suspended-oak-leaf
 
 email: your-email@domain.com # email for form submission
 
-github_username:  dboone
+github_username: dboone
 
 #disqus:
 #  shortname: janczizikow # to enable comments replace with your_disqus_shortname
