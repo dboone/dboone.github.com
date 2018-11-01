@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Hickory cutting board"
-date:   2018-08-23
-categories: woodworking
+title: "Hickory cutting board"
+date: 2018-08-23
+categories: woodworking 
 featured-img: "hickory-cutting-board-final"
 ---
 
-<img src="https://lh3.googleusercontent.com/6U6ZQUB70oWAWqB5MZFbvmEn0uzrZ4nI-4Kss7GGaS0vr5eDFW-LwhOngSRll58yjCsPCWR1NLMcz9hLspWfMPbMBffjt_PNlCkbRQVX165869LBVQgddPFgfFy3MTmLJGYYNI2JRV5UiKa0O_8gx0xBD2qeufAIi3Vn4YTI-B9tXUqchSWR7YVx73W9PEIagjabl5V84giLMNgpPqmzrXPnrrJ5P4QOzhS0sNIhSykC51OLrDgjtmxWKGNAkEIciInNo7Ei3ElhCxwfqqbDCu7juuIRWtAaR0TKYE6n1_KMhUXCsWoWZh5-4Teg8cCj91xO0orGZFbKtr8whWSz1gNyn-lfn0Z9tqYPtVsvGhhYIRlvkb49qeeMZP8GHK1aGSO6hbrm2kwPi5i0x78QDsoftgoD15ZJckyNRKglsaojww_-mJm7WGytlXss2EcgIVrBF0MMqKDUuRN7Psb-gRpK5Le-Vrb08sRscxBR66k04xyR5cdcHjx5Qo_KloH9w-MtfgFGKFP-YGvqe3ElTNltTxqem0Iv9YfUEW-RqmIkVYLRA9XqfAKhXNK1oTEZd6PGCue1p_V0DPCuALYLfV3LuqCf8qaAptaAYL64kAHJYOHwHj-YthpsG43R3mVZB83KKOTxeI8KFEoUQKFbrkOQwPw5X8XdH6aDHITa2w-QtEp3_qj3GuMygA=w675-h1012-no">
+
+
+![hickory-cutting-board-final](/assets/img/posts/hickory-cutting-board-final.jpg){:class="img-responsive"}

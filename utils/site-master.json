@@ -5,45 +5,129 @@
     "images_path" : "/assets/img/posts/",
     "posts" : [
         {
+            "title" : "Stowaway stool",
+            "date" : "2017-05-22",
+            "categories" : ["woodworking"],
+            "images" : ["stowaway-stool-final"],
+            "description" : "Credit to Pocket83: https://www.youtube.com/watch?v=v4pl0WUNUyI"
+        },
+        {
             "title" : "Cocobolo pens",
             "date" : "2017-10-15",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["cocobolo-pens-final"],
             "description" : ""
         },
         {
             "title" : "Firewood mushroom",
             "date" : "2017-11-26",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["firewood-mushroom-final"],
             "description" : "Mushroom turned from a piece of firewood. Finished with beeswax."
         },
         {
             "title" : "Cocobolo pen for Hannah",
             "date" : "2017-12-10",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["cocobolo-pen-hannah-final"],
             "description" : ""
         },
         {
             "title" : "Walnut pen for Grandma",
             "date" : "2018-01-09",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["walnut-pen-grandma-final"],
             "description" : ""
         },
         {
             "title" : "Poplar picture ledge shelf",
             "date" : "2018-03-11",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["picture-ledge-shelf-final"],
             "description" : ""
         },
         {
             "title" : "First cutting board",
             "date" : "2018-03-26",
             "categories" : ["woodworking"],
-            "images" : [],
+            "images" : ["first-cutting-board-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Pocket hole cupboard",
+            "date" : "2018-03-31",
+            "categories" : ["woodworking"],
+            "images" : ["pocket-hole-cupboard-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Oak chopping block refurbish",
+            "date" : "2018-05-10",
+            "categories" : ["woodworking"],
+            "images" : ["oak-chopping-block-final-surface"],
+            "description" : ""
+        },
+        {
+            "title" : "Mother's day cutting boards",
+            "date" : "2018-05-13",
+            "categories" : ["woodworking"],
+            "images" : ["mothers-day-cutting-board-edge"],
+            "description" : ""
+        },
+        {
+            "title" : "Garden crate",
+            "date" : "2018-05-22",
+            "categories" : ["woodworking"],
+            "images" : ["garden-crate-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Tea light candle holder",
+            "date" : "2018-05-22",
+            "categories" : ["woodworking"],
+            "images" : ["tea-light-candle-holder-final", "tea-light-candle-holder-lit-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Purple heart and Cocobolo pens",
+            "date" : "2018-06-09",
+            "categories" : ["woodworking"],
+            "images" : ["purple-heart-and-cocobolo-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Kentucky stick chairs",
+            "date" : "2018-06-10",
+            "categories" : ["woodworking"],
+            "images" : ["kentucky-stick-chairs-final"],
+            "description" : "Credit to Carl Jacobson: https://www.youtube.com/watch?v=IbTZPaPufAY"
+        },
+        {
+            "title" : "Father's day pens",
+            "date" : "2018-06-17",
+            "categories" : ["woodworking"],
+            "images" : ["fathers-day-pens-final"],
+            "description" : "First time turning acrylic blanks!"
+        },
+        {
+            "title" : "Pen and Pencil for Larry",
+            "date" : "2018-07-28",
+            "categories" : ["woodworking"],
+            "images" : ["pen-pencil-set-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Kitty cutting boards",
+            "date" : "2018-08-20",
+            "categories" : ["woodworking"],
+            "images" : ["kitty-cutting-boards-final"],
+            "description" : ""
+        },
+        {
+            "title" : "Hickory cutting board",
+            "date" : "2018-08-23",
+            "categories" : ["woodworking"],
+            "images" : ["hickory-cutting-board-final"],
             "description" : ""
         },
         {
@@ -58,7 +142,7 @@
             "date" : "2018-09-07",
             "categories" : ["woodworking"],
             "images" : ["maple-stropping-board-final"],
-            "description" : ""
+            "description" : "For keeping carving knives, plane blades, and chisels nice and sharp! I used carpet tape to attach the leather so it can be replaced as needed."
         },
         {
             "title" : "Ambrosia maple pen holders",
@@ -66,6 +150,13 @@
             "categories" : ["woodworking"],
             "images" : ["ambrosia-maple-pen-holders-final", "ambrosia-maple-pen-holders-close"],
             "description" : "This was my first time working with ambrosia maple. I was really happy with how well the miters came out considering the imperfect milling. The packing tape glue up trick works wonders for bringing miters together."
+        },
+        {
+            "title" : "Cutting board for Krista",
+            "date" : "2018-09-16",
+            "categories" : ["woodworking"],
+            "images" : ["cutting-board-for-krista"],
+            "description" : "Hickory, purple heart, and soft maple. This was my first time using the 45° bit on a real project and it turned out great."
         }
     ]
 }

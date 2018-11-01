@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Tea light candle holder"
-date:   2018-05-22
-categories: woodworking
-featured-img: "tea-light-candle-holder-lit-final"
+title: "Tea light candle holder"
+date: 2018-05-22
+categories: woodworking 
+featured-img: "tea-light-candle-holder-final"
 ---
 
-<img src="https://lh3.googleusercontent.com/ms5qSCpZ0pxcVsiV73ivmc3wmA7hG7HXvbKFwKBbSV91VjnBmZOK6krHVA9XSR8G9E2lpjI-c375YlyA5ItPB7ifOXmINHkom9lBVZu4fs3E1TKPXoKPkh7n5wS5xUFiaj2sRBVwuP509f3XemzElt3ecQ5bsDFldSR9opQ75Kez0vxodCg8F3ViLJfn0I9GmYu4pt3y8Kr4-lA-x-C9Ns5ofwKy7pGdlPLKQqNHRRHYDJbhAZCZzM0XTa6wAmNMV2R9phq-uO_w5AOFPzYrI_ZIBwI__cTrzFQ5mQjSpghSlW3fmTth6UNPUrNK6hTwX3F_vM0Uo5R-iVXxFMyxpMWveigih_jDERTMGf2iOSyHBohvDFTg7aiwTDDlMsuYbAGs7eNMMsG6260wFhzV4qzEPvtiogFvfljLKKsF_WW7Y815Wnr7giGLfkrI9etcUgGRJJFKxUEmsVO0NMVizbTKdBY0Gxjrq06evMpE7BIMl04K1bx6Ty9TwPex4adNcuMfEUEcW8jgG2mkj0sIrexraaIfQPKXsvCxu09ZGQxALkmqfFBMTHPmX_t23fb2lSLL--9_ujGvaci6ND62vByhWP7mw2Uuw72IAbt6IKjVJir8IhL-heV5YjVQot3GQAEgQoFuI1mrt7CXrkvmchotwrFdQhmBUA=w1445-h963-no">
 
-<img src="https://lh3.googleusercontent.com/_1XcCM9kQsj7XNdlRABZW8MTlf7UvD-y4999kymDRfZkl6uzQsstoEmdtmybnTATYtdjne9aVDAIXKiGo6GIL8uFeXP0OfLleTEGaAyBfC_cF5qEUsqvYRTTKR4fFmsDbWAWOqSkSAV8ZiEyoigqt3JUXLwIjm5A_Qb-nx9YT75gX7ZW5ZHoLy-tTxaWxX1eCRLnaJOWyEuN2Z52QUqHHob5cpxunMTX8nDZAj82fYCmRv3Rm_5D3z5MEBAOwJMeEQ3yiWdetcDuQtRJJOydNao7coQGtBaDKA1j6SeTtpc-ST6qYZtRWpXZNMJIpV6NaoFZlcMIjLX0QWJR2kqLjLAh0H6NIfCGjETh2wRz8ANQwXxVcAESQEu9hrgm2r-5DMcFWoyEeg8ijF_2LFyj5i6BI9mMDcCAWzUfkc1Zhq4O9EScYjQACEvrszOj4kIBGH509zN3cPHvOIhBDCoYMDAqVAJKEaxnM7J6EmlF5hBE05fAt-wmzy_z9peWtTGYd-WtFlBTanUZz-J1aBoZxcBRlVUzwnlC-0D_2XikbEI1xWW713kkg4fLkRLpjwHdkvL9HoEXYKT6WXnZ3qqZrUdaekUGG0Y4flGjmZx9yjTToBctlYh-1-CEJ9xw-sdXe2xmay-v0unm45oCIxwCx2vn9kl7FqF3GQ=w1518-h1012-no">
+
+![tea-light-candle-holder-final](/assets/img/posts/tea-light-candle-holder-final.jpg){:class="img-responsive"}
+![tea-light-candle-holder-lit-final](/assets/img/posts/tea-light-candle-holder-lit-final.jpg){:class="img-responsive"}

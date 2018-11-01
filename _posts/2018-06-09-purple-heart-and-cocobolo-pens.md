@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Purple heart and cocobolo pens"
-date:   2018-06-09
-categories: woodworking
+title: "Purple heart and Cocobolo pens"
+date: 2018-06-09
+categories: woodworking 
 featured-img: "purple-heart-and-cocobolo-final"
 ---
 
-Purple heart and Cocobolo pens finished with Doctor's Woodshop Pens Plus.
 
-<img src="https://lh3.googleusercontent.com/kfb787qNTrexCSmcKTryALjqTPQGFDyz7J3OZIyxv5ft4BEX5JF2R2nkEZ6UOy475TjnBm59b5CrWH9fskM_j3W4Yjdz_nUisT_aTh7CxSu7nNFL2HIHybcGBNbVJJKGvFVPcjYHdv7n2U5DWrXO-zexAtSputPoVM64jz4JlvwzrO5zZobkaNl3dS1-61aP3ql3FIMLG7b-FWTkQZ81pnk3iFobCfLawj-By1Ajkmfvpea2G5Esnw7YI98KR-ssD46e3v9WXM2Jk4Q7oGFq4f9ZM7Q8k0qCsxgPub_riKN5NoM6PuyiJXHEhiAOwaPgXSuQ5887Wv42kjfrg3Au5a1DEExWY02KyF81SoAMA3WkICpyBkm6lNp3bAF6qaavX-CZVWqPKe9MQds7SIZOjTl0CeE9hGJoBrPVDZrxvcewuBbEILSs_0eiBht_2aTTjHtPZA3PC4tZPzwslcU4S6fKY-GryWiL60BDd1sxuiZcfGlXS4QFSUwWkirpVsFtCTNN83MJeDGvCKMZTT8ROR-5e9vcprByd6om9SWafkS249U6KN_mQbDkBLxHLIYix_76keyHUsITQH6IMDdqrsUWwdNZU2xW319zrZ1Co4WROzP4_jCW7uwV8cr6OrBRzQUj5jA7zOgcrYWXyeyoNhdVNzJqh7JoLA=w1518-h1012-no">
+
+![purple-heart-and-cocobolo-final](/assets/img/posts/purple-heart-and-cocobolo-final.jpg){:class="img-responsive"}
