@@ -6,7 +6,7 @@ categories: lathe cnc
 featured-img: "aghires-pens"
 ---
 
-These are pens made from Cherry that feature the AgHires logo (https://aghires.com/). I used my CNC to create a negative version of the logo and then filled the cavity with tinted epoxy.
+These are pens made from Cherry that feature the AgHires logo (https://aghires.com/). I used my CNC to create a negative version of the logo and then filled the space with tinted epoxy.
 
 ![aghires-pens](/assets/img/posts/aghires-pens.jpg){:class="img-responsive"}
 

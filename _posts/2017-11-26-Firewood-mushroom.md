@@ -2,7 +2,7 @@
 layout: post
 title: "Firewood mushroom"
 date: 2017-11-26
-categories: woodworking 
+categories: lathe 
 featured-img: "firewood-mushroom-final"
 ---
 

@@ -9,3 +9,4 @@ featured-img: "stowaway-stool-final"
 Credit to Pocket83: https://www.youtube.com/watch?v=v4pl0WUNUyI
 
 ![stowaway-stool-final](/assets/img/posts/stowaway-stool-final.jpg){:class="img-responsive"}
+
