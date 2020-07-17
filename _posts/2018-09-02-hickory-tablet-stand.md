@@ -9,3 +9,4 @@ featured-img: "hickory-tablet-stand-final"
 
 
 ![hickory-tablet-stand-final](/assets/img/posts/hickory-tablet-stand-final.jpg){:class="img-responsive"}
+

@@ -2,7 +2,7 @@
 layout: post
 title: "Oak chopping block refurbish"
 date: 2018-05-10
-categories: woodworking 
+categories: kitchen 
 featured-img: "oak-chopping-block-final-surface"
 ---
 

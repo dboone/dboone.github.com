@@ -2,7 +2,7 @@
 layout: post
 title: "Kitty cutting boards"
 date: 2018-08-20
-categories: woodworking 
+categories: kitchen 
 featured-img: "kitty-cutting-boards-final"
 ---
 

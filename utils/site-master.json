@@ -14,28 +14,28 @@
         {
             "title" : "Cocobolo pens",
             "date" : "2017-10-15",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["cocobolo-pens-final"],
             "description" : ""
         },
         {
             "title" : "Firewood mushroom",
             "date" : "2017-11-26",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["firewood-mushroom-final"],
             "description" : "Mushroom turned from a piece of firewood. Finished with beeswax."
         },
         {
             "title" : "Cocobolo pen for Hannah",
             "date" : "2017-12-10",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["cocobolo-pen-hannah-final"],
             "description" : ""
         },
         {
             "title" : "Walnut pen for Grandma",
             "date" : "2018-01-09",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["walnut-pen-grandma-final"],
             "description" : ""
         },
@@ -49,7 +49,7 @@
         {
             "title" : "First cutting board",
             "date" : "2018-03-26",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["first-cutting-board-final"],
             "description" : ""
         },
@@ -61,16 +61,16 @@
             "description" : ""
         },
         {
-            "title" : "Oak chopping block refurbish",
+            "title" : "Oak chopping block overhaul",
             "date" : "2018-05-10",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["oak-chopping-block-final-surface"],
             "description" : ""
         },
         {
             "title" : "Mother's day cutting boards",
             "date" : "2018-05-13",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["mothers-day-cutting-board-edge"],
             "description" : ""
         },
@@ -79,7 +79,7 @@
             "date" : "2018-05-22",
             "categories" : ["woodworking"],
             "images" : ["garden-crate-final"],
-            "description" : ""
+            "description" : "The sides are made from Poplar and the bottom is made from Cedar."
         },
         {
             "title" : "Tea light candle holder",
@@ -105,28 +105,28 @@
         {
             "title" : "Father's day pens",
             "date" : "2018-06-17",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["fathers-day-pens-final"],
             "description" : "First time turning acrylic blanks!"
         },
         {
-            "title" : "Pen and Pencil for Larry",
+            "title" : "Tamboti pen and pencil set",
             "date" : "2018-07-28",
-            "categories" : ["woodworking"],
+            "categories" : ["lathe"],
             "images" : ["pen-pencil-set-final"],
-            "description" : ""
+            "description" : "A friend requested a matching pen and pencil set in exchange for a decoy. I selected tamboti pen blanks not knowing anything about the wood. It turned well but sanding as difficult due to the oily nature of the wood. The natural oils gummed up the sand paper quickly."
         },
         {
-            "title" : "Kitty cutting boards",
+            "title" : "Kitty serving boards",
             "date" : "2018-08-20",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["kitty-cutting-boards-final"],
-            "description" : ""
+            "description" : "We use these little boards all the time as cheese boards or trivets."
         },
         {
             "title" : "Hickory cutting board",
             "date" : "2018-08-23",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["hickory-cutting-board-final"],
             "description" : ""
         },
@@ -140,7 +140,7 @@
         {
             "title" : "Maple stropping board",
             "date" : "2018-09-07",
-            "categories" : ["woodworking"],
+            "categories" : ["shop"],
             "images" : ["maple-stropping-board-final"],
             "description" : "For keeping carving knives, plane blades, and chisels nice and sharp! I used carpet tape to attach the leather so it can be replaced as needed."
         },
@@ -154,9 +154,72 @@
         {
             "title" : "Cutting board for Krista",
             "date" : "2018-09-16",
-            "categories" : ["woodworking"],
+            "categories" : ["kitchen"],
             "images" : ["cutting-board-for-krista"],
-            "description" : "Hickory, purple heart, and soft maple. This was my first time using the 45° bit on a real project and it turned out great."
+            "description" : "Hickory, purple heart, and soft maple. This was my first time using the 45 degree bit on a real project and it turned out great."
+        },
+        {
+            "title" : "Drill bit awl",
+            "date" : "2019-01-06",
+            "categories" : ["shop", "lathe"],
+            "images" : ["ash-awl"],
+            "description" : "This awl was made from a piece of ash firewood, a piece of copper pipe, and an old drill bit. This is a great shop project for anyone!"
+        },
+        {
+            "title" : "Ash duck call",
+            "date" : "2019-01-12",
+            "categories" : ["lathe"],
+            "images" : ["ash-duck-call"],
+            "description" : ""
+        },
+        {
+            "title" : "Engagement ring box",
+            "date" : "2019-07-27",
+            "categories" : ["woodworking"],
+            "images" : ["engagement-ring-box"],
+            "description" : "She said yes!"
+        },
+        {
+            "title" : "Pine and Cedar side table",
+            "date" : "2019-08-11",
+            "categories" : ["woodworking"],
+            "images" : ["good-clean-fun-side-table"],
+            "description" : ""
+        },
+        {
+            "title" : "Silverware drawer organizer",
+            "date" : "2019-09-01",
+            "categories" : ["kitchen"],
+            "images" : ["silverware-drawer-organizer"],
+            "description" : "A custom silverware drawer organizer made from Poplar. Most of the joints are simply nailed together with the exception of a single half lap joint. I didn't see the need to apply any finish to this piece. Poplar apparently holds up well to repeated contact with water (see antique washboards which are soaked).\n\nI also made a matching kitchen utensil drawer organizer which is just like this one but about twice as deep. These organizers, combined with some fresh non-slip drawer lining, are a great way to keep your kitchen organized.\n\nCredit to Pocket83 for the inspiration: https://www.youtube.com/watch?v=wlCa7tIdJ3A."
+        },
+        {
+            "title" : "Fire department stool top",
+            "date" : "2019-09-20",
+            "categories" : ["cnc"],
+            "images" : ["fire-dept-stool-top", "fire-dept-stool"],
+            "description" : "This is an Oak stool top that my uncle was in the process of making. I carved the fire department logo which eventually received a coat of fire engine red paint."
+        },
+        {
+            "title" : "Cherry and walnut ulu board",
+            "date" : "2019-09-21",
+            "categories" : ["kitchen", "cnc"],
+            "images" : ["cherry-and-walnut-ulu-board"],
+            "description" : ""
+        },
+        {
+            "title" : "AgHires Pens",
+            "date" : "2020-01-27",
+            "categories" : ["lathe", "cnc"],
+            "images" : ["aghires-pens"],
+            "description" : "These are pens made from Cherry that feature the AgHires logo (https://aghires.com/). I used my CNC to create a negative version of the logo and then filled the space with tinted epoxy."
+        },
+        {
+            "title" : "Cherry tea box",
+            "date" : "2020-05-15",
+            "categories" : ["kitchen"],
+            "images" : ["cherry-tea-box-open", "cherry-tea-box-closed"],
+            "description" : "Unlike other boxes I have made, this design involves gluing all four sides together with the top and bottom panels in place. You cannot access the inside of the box until the glue dries and the lid is _cut_ off. I went light on the glue for this reason (also because the miters were very tight). Once the lid was cut off I created a Poplar liner which is friction fit into place. I was hoping to perform a continuous grain match but I forgot to swap the pieces after resawing. I think this means the grain is continuous on the inside where no one can see it. Either way, the grain does match well on two of the four corners.\n\nI learned a lot while making this box and I look forward to making some more like this."
         }
     ]
 }

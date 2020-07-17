@@ -9,3 +9,4 @@ featured-img: "firewood-mushroom-final"
 Mushroom turned from a piece of firewood. Finished with beeswax.
 
 ![firewood-mushroom-final](/assets/img/posts/firewood-mushroom-final.jpg){:class="img-responsive"}
+

@@ -27,7 +27,9 @@ def create_post(posts_path, images_path, post_configuration):
         post_file.write(title_line + newline + newline)
         post_file.write(post_configuration["description"] + newline + newline)
         for image in post_configuration["images"]:
-            post_file.write("![" + image + "](" + images_path + image + ".jpg){:class=\"img-responsive\"}" + newline)
+            post_file.write("![" + image + "](" + images_path + image + ".jpg){:class=\"img-responsive\"}" + newline + newline)
+
+    print ("Created \'%s\'" % post_filename)
 
 def parse_configuration(config_filename):
     configuration = []

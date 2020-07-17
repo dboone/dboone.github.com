@@ -18,14 +18,15 @@ layout: compress
 
 {% include header.html %}
 
-  {% if page.featured-img %}
-  <!--<div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ page.featured-img }}.jpg">-->
-  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}.jpg"></div>
-  {% else %}
-  <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}.jpg">
-  {% endif %}
+  <div class="hero--small lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}.jpg">
     <div class="hero__wrap">
-      {% if post.categories or page.categories %}
+      <h1 class="hero__title">{{ page.title | escape }}</h1>
+      <p class="hero__meta">
+        <span>
+          <time>{{ page.date | date_to_string }}</time><!--&nbsp;&middot;-->
+        </span>
+      </p>
+        {% if post.categories or page.categories %}
         <div class="hero__categories">
           {% if post %}
             {% assign categories = post.categories %}
@@ -37,21 +38,7 @@ layout: compress
             {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </div>
-      {% endif %}
-      <h1 class="hero__title">{{ page.title }}</h1>
-      <p class="hero__meta">
-        <span>
-          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
-        </span>
-        <span>
-            {% assign words = content | number_of_words %}
-              {% if words < 360 %}
-                1 min
-              {% else %}
-                {{ words | divided_by:180 }} mins
-            {% endif %} read
-        </span>
-      </p>
+       {% endif %}
     </div>
   </div>
 
@@ -59,7 +46,7 @@ layout: compress
     <div class="container">
       <article class="post-content" itemprop="articleBody">
 
-        {{ content }}
+      {{ content }}
 
       </article>
       <div class="post-content controls__inner">
